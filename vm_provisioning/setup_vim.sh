@@ -12,7 +12,8 @@ git clone git://github.com/tpope/vim-rails.git ~/.vim/bundle/vim-rails
 git clone git://github.com/tpope/vim-bundler.git ~/.vim/bundle/vim-bundler
 git clone git://github.com/tpope/vim-endwise.git ~/.vim/bundle/vim-endwise
 git clone git://github.com/tpope/vim-surround.git ~/.vim/bundle/vim-surround
-git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
+git clone git://github.com/tpope/vim-sensible.git ~/.vim/bundle/vim-sensible
+git clone git://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 
 # Vim Themes
 git clone git://github.com/altercation/vim-colors-solarized.git ~/.vim/bundle/vim-colors-solarized
